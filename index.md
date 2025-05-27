@@ -28,3 +28,12 @@ sapply(CTSA_ForExport[Healthcarevariables], class)  # Check if they are factors
 sapply(CTSA_ForExport[Healthcarevariables], levels)  # Check the levels of each factor 
 ```
 
+
+Now I'm creating a task list. 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+      
+
